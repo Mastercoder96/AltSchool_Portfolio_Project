@@ -1,3 +1,10 @@
+#REPOSITORY PORTFOLIO PROJECT
+
+This is a simple portfolio project of my repositories made with React and Chakra UI
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
