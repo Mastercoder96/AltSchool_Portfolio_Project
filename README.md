@@ -1,4 +1,4 @@
-#REPOSITORY PORTFOLIO PROJECT
+# REPOSITORY PORTFOLIO PROJECT
 
 This is a simple portfolio project of my repositories made with React and Chakra UI
 
